@@ -18,7 +18,7 @@
  
 
   
-- ## [Demo Link](https://rgtechno.github.io/Sorting_Visualizer/) 
+<!-- - ## [Demo Link](https://rgtechno.github.io/Sorting_Visualizer/) 
 
 <hr>
 
@@ -27,3 +27,4 @@
 - ### [Rahul Gandhi](https://github.com/RGTechno)
 
 <hr>
+ -->
